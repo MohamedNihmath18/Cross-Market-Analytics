@@ -147,3 +147,27 @@ Includes 25+ predefined analytical queries such as:
 ```bash
 git clone https://github.com/MohamedNihmath18/Cross-Market-Analytics.git
 cd Cross-Market-Analytics
+
+### 2️⃣ Create Virtual Environment (Optional but Recommended)
+
+```bash
+python -m venv venv
+source venv/bin/activate   # Mac/Linux
+venv\Scripts\activate      # Windows
+
+### 3️⃣ Install Dependencies
+
+pip install -r requirements.txt
+
+### 4️⃣ Run ETL Pipeline
+
+python data_extraction.py
+python database_setup.py
+
+### 5️⃣ Launch Streamlit App
+
+streamlit run app.py
+
+
+
+
