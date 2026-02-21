@@ -2,6 +2,9 @@
 ### Crypto vs Oil vs Global Stock Indices  
 Built with Python, SQL & Streamlit  
 
+🌐 **Live Demo:** [Click here to view the interactive dashboard!]
+(https://cross-market-analytics-nihmath13.streamlit.app/)
+
 An end-to-end Financial Data Engineering & Analytics platform designed to analyze behavioral relationships between cryptocurrencies, commodities, and global stock indices.
 
 This project investigates whether crypto behaves like “digital gold”, a risk asset, or an independent asset class.
