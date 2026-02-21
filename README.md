@@ -150,6 +150,7 @@ cd Cross-Market-Analytics
 
 ### 2️⃣ Create Virtual Environment (Optional but Recommended)
 
+```bash
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
